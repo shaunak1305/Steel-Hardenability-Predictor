@@ -4,6 +4,9 @@
 
 This computational materials science tool bridges the gap between theoretical physical metallurgy and real-world manufacturing. It processes datasets of steel alloy compositions to automatically predict their hardenability (Jominy End-Quench profiles) and autonomously evaluates whether they will meet specific engineering criteria when quenched as physical round bars.
 
+<img width="1200" height="700" alt="Jominy_Hardness_Plot" src="https://github.com/user-attachments/assets/d392ae1c-378e-4622-b4ea-9a6aef09d133" />
+
+
 **Key Features**
 
 Batch Data Processing: Utilizes pandas to instantly ingest and process entire databases of steel compositions (Carbon, Manganese, Chromium, Molybdenum, Silicon, Nickel).
